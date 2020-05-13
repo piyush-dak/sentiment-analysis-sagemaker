@@ -1,0 +1,6 @@
+data/*
+s3_uploads/*
+other/*
+.ipynb*
+pytorch/*
+sentiment_web_app/*
